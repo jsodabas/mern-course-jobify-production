@@ -20,7 +20,7 @@ const Landing = () => {
             {/* info page */}
             <div className='info'> 
                 <h1>Job <span>Tracking</span> App</h1>
-                <p>I'm baby biodiesel put a bird on it pitchfork green juice kickstarter mixtape shaman tote bag gluten-free. Hella shaman poke, sus succulents JOMO seitan. </p>
+                <p>In this Job tracking App, you can visibly track your work jobs available. You can also add your job as well.</p>
                 <Link to='/register' className='btn btn-hero'>Login/Register</Link>
             </div>
             <img src={Main} alt="job hunt" className='img main-img' />
